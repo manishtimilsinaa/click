@@ -1,0 +1,58 @@
+/* .container{
+    border: 2px solid red;
+    width: 400px;
+  
+position: absolute;
+bottom: 10px;
+height: 200px;
+left: 2px;
+padding: 20px;
+margin: 50px;
+} */
+
+.container img{
+    width: 450px;
+position: absolute;
+bottom: 50px;
+left: 100px;
+
+
+}
+.container {
+    
+    padding: 10px;
+    text-align: center;
+    
+  }
+  
+  button {
+    background-color: orange;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 4px;
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 50px;
+   margin-left: 90px;
+    
+  }
+
+  button:hover{
+    background-color: black;
+  }
+/* body{
+     background-image: url('back.avif');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+   
+} */
+body {
+  background: linear-gradient(to bottom, #91b8da, #bcd0e2);
+  background-size: 120% 120%;
+  background-repeat: no-repeat;
+}
+  
+  
+  
